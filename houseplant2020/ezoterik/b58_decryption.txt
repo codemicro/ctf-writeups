@@ -1,0 +1,47 @@
+elevator lolwat
+  action main
+    show 114 --> r
+    show 116 --> t 
+    show 99  --> c
+    show 112 --> p
+    show 123 --> {
+    show 78  --> N
+    show 111 --> o
+    show 116 --> t
+    show 32  
+    show 113 --> q
+    show 117 --> u
+    show 105 --> i
+    show 116 --> t
+    show 101 --> e
+    show 32 
+    show 110 --> n
+    show 111 --> o
+    show 114 --> r
+    show 109 --> m
+    show 97  --> a
+    show 108 --> l
+    show 32
+    show 115 --> s
+    show 116 --> t
+    show 101 --> e
+    show 103 --> g
+    show 111 --> o
+    show 95  --> _
+    show 52  --> 4
+    show 120 --> x
+    show 98  --> b
+    show 98  --> b
+    show 52  --> 4
+    show 53  --> 5
+    show 103 --> g
+    show 121 --> y
+    show 116 --> t
+    show 106 --> j
+    show 125 --> }
+  end action
+  action show num
+    floor num
+    outFloor
+  end action
+end elevator
