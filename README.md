@@ -4,4 +4,4 @@
 
 [![CTFTime profile][ctft]](https://ctftime.org/team/69748)
 
-A collection of CTF writeups from [ProgPilot](https://ctftime.org/team/69748).
+A collection of CTF writeups from [ProgPilot](https://www.progpilot.com).
